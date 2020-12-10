@@ -1,4 +1,7 @@
 # randombyvanek
+ВАЖНО!!:   Перед тем как запускать программу нужно установить coloram'у! (pip install colorama)
+
+
 1)Вы выбираете любое число до 100.
 
 ![alt tag](http://vanek.cf/randombyvanek/data/screnshoots/input.png "Программа Просит число.")​
